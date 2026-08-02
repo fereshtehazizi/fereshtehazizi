@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Fereshteh Azizi</h1>
 
 <p align="center">
@@ -13,31 +9,27 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://fereshtehazizi.github.io/My-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/fereshteh-azizi-8584b5424">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:fereshtehazizi710@gmail.com">
     <img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+## About Me
 
-# 👩‍💻 About Me
+- Frontend Developer passionate about creating beautiful user experiences
+- Constantly improving through real-world projects
+- Interested in clean architecture, accessibility, and scalable applications
+- I enjoy transforming ideas into polished digital products
 
-- 💜 Frontend Developer passionate about creating beautiful user experiences
-- 🌱 Constantly improving through real-world projects
-- 🎯 Interested in clean architecture, accessibility, and scalable applications
-- ✨ I enjoy transforming ideas into polished digital products
-
----
-
-# 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -45,15 +37,13 @@
 
 </p>
 
----
+## Featured Projects
 
-# 🚀 Featured Projects
-
-## 💼 Kaaryab
+### Kaaryab
 
 A modern job platform that connects job seekers with opportunities through a clean and intuitive experience.
 
-### Built With
+Built With
 
 - Next.js
 - TypeScript
@@ -61,67 +51,59 @@ A modern job platform that connects job seekers with opportunities through a cle
 - Supabase
 - React
 
-🔗 **Repository:** YOUR_KAARYAB_REPOSITORY
+**Repository:** https://github.com/fereshtehazizi/KaarYab
 
-🌐 **Live Demo:** YOUR_KAARYAB_DEMO
+**Live Demo:** [kaaryab.vercel.app](https://kaaryab.vercel.app/)
 
----
-
-## 🎯 Goal Tracker
+### Goal Tracker
 
 A productivity application designed to help users organize goals, monitor progress, and stay motivated with analytics and calendar features.
 
-### Built With
+Built With
 
 - React
 - TypeScript
 - Tailwind CSS
 - Material UI
 
-🔗 **Repository:** YOUR_GOAL_TRACKER_REPOSITORY
+**Repository:** https://github.com/fereshtehazizi/Goal-tracker
 
-🌐 **Live Demo:** YOUR_GOAL_TRACKER_DEMO
+**Live Demo:** https://goal-tracker-ecru-chi.vercel.app/
 
----
 
-# 🐍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fereshtehazizi/fereshtehazizi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
---
-
-# 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://fereshtehazizi.github.io/My-Portfolio/">
 Portfolio
 </a>
 &nbsp;•&nbsp;
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/fereshteh-azizi-8584b5424">
 LinkedIn
 </a>
 &nbsp;•&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:fereshtehazizi710@gmail.com">
 Email
 </a>
 
 </p>
 
----
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=A855F7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=fereshtehazizi&label=Profile+Views&color=A855F7&style=for-the-badge"/>
 
 </p>
 
 <p align="center">
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </p>
