@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://canva.link/eel83n10hw8clc8" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Fereshteh Azizi</h1>
