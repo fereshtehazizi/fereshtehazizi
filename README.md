@@ -9,17 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://fereshtehazizi.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="www.linkedin.com/in/fereshteh-azizi-8584b5424">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:fereshtehazizi710@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://fereshtehazizi.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fereshteh-azizi-8584b5424"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:fereshtehazizi710@gmail.com"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ## About Me
@@ -86,7 +78,7 @@ Portfolio
 </a>
 &nbsp;•&nbsp;
 
-<a href="www.linkedin.com/in/fereshteh-azizi-8584b5424">
+<a href="https://www.linkedin.com/in/fereshteh-azizi-8584b5424">
 LinkedIn
 </a>
 &nbsp;•&nbsp;
