@@ -14,6 +14,13 @@
   <a href="mailto:fereshtehazizi710@gmail.com"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=fereshtehazizi&label=Profile+Views&color=A855F7&style=for-the-badge"/>
+
+</p>
+
+
 ## About Me
 
 - Frontend Developer passionate about creating beautiful user experiences
@@ -86,12 +93,6 @@ LinkedIn
 <a href="mailto:fereshtehazizi710@gmail.com">
 Email
 </a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=fereshtehazizi&label=Profile+Views&color=A855F7&style=for-the-badge"/>
 
 </p>
 
